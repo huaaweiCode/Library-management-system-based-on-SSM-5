@@ -63,3 +63,8 @@
 - 系统设置：管理员可以设置图书最多借阅天数、学生最多借阅本数、超期罚款金额等
 
 
+### 获取方式&视频演示
+
+下方扫一下，回复关键词：图书馆
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
